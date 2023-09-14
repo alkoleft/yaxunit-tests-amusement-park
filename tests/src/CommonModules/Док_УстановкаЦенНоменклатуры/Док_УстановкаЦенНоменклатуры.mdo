@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bc121b55-fe3a-427c-8358-63b999db7892">
+  <name>Док_УстановкаЦенНоменклатуры</name>
+  <synonym>
+    <key>ru</key>
+    <value>Док установка цен номенклатуры</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

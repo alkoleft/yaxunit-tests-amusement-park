@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d8a99c96-b618-4088-a356-ef07ade98ddb">
+  <name>Док_ПосещениеАттракциона</name>
+  <synonym>
+    <key>ru</key>
+    <value>Док посещение аттракциона</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

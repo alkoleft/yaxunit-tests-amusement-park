@@ -46,11 +46,19 @@
   <commonTemplates>CommonTemplate.ЮТRegEx1CAddin</commonTemplates>
   <commonTemplates>CommonTemplate.ЮТYaxUnitAddIn</commonTemplates>
   <commonTemplates>CommonTemplate.ЮТОписаниеМетаданных</commonTemplates>
+  <commonModules>CommonModule.Док_ПосещениеАттракциона</commonModules>
+  <commonModules>CommonModule.Док_ПродажаБилета</commonModules>
+  <commonModules>CommonModule.Док_ПродажаБилета_ММ</commonModules>
+  <commonModules>CommonModule.Док_УстановкаЦенНоменклатуры</commonModules>
   <commonModules>CommonModule.Мокито</commonModules>
   <commonModules>CommonModule.МокитоОбучение</commonModules>
   <commonModules>CommonModule.МокитоПроверки</commonModules>
   <commonModules>CommonModule.МокитоСлужебный</commonModules>
   <commonModules>CommonModule.ОМ_НомераТелефоновКлиентСервер</commonModules>
+  <commonModules>CommonModule.ПомощникТестирования</commonModules>
+  <commonModules>CommonModule.РС_ЦеныНоменклатуры_ММ</commonModules>
+  <commonModules>CommonModule.Спр_Клиенты</commonModules>
+  <commonModules>CommonModule.Спр_Номенклатура</commonModules>
   <commonModules>CommonModule.ЮТАсинхроннаяОбработкаСлужебныйКлиент</commonModules>
   <commonModules>CommonModule.ЮТест</commonModules>
   <commonModules>CommonModule.ЮТЗапросы</commonModules>
