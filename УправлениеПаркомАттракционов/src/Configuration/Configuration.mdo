@@ -34,7 +34,7 @@
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
-  <compatibilityMode>8.3.22</compatibilityMode>
+  <compatibilityMode>8.3.21</compatibilityMode>
   <languages uuid="733239ed-f68b-44a9-b468-923b834a5953">
     <name>Русский</name>
     <synonym>
